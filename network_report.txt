@@ -1,0 +1,26 @@
+====================================
+     NETWORK HEALTH CHECK REPORT    
+====================================
+
+1. SERVER INFORMATION
+Hostname      : DESKTOP-03K3O9E
+Current User  : dell
+Date & Time   : Tue, Jun 16, 2026  7:57:48 PM
+
+2. NETWORK INFORMATION
+IP Address      : 
+Default Gateway : 
+DNS Server      : 
+
+3. INTERNET CONNECTIVITY
+Internet Connectivity : DOWN
+
+4. DNS RESOLUTION
+DNS Resolution : WORKING
+
+5. WEBSITE AVAILABILITY
+google.com : DOWN
+github.com : DOWN
+amazon.com : DOWN
+
+Report saved to network_report.txt
